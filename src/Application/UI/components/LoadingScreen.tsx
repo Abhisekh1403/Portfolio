@@ -174,7 +174,7 @@ const LoadingScreen: React.FC<LoadingProps> = () => {
                         </div>
                     </div>
                     <div style={styles.body} className="loading-screen-body">
-                        <p>HSP S13 2000-2022 Special UC131S</p>
+                        <p>HSP S13 2000-2024 Special UC131S</p>
                         <div style={styles.spacer} />
                         {showBiosInfo && (
                             <>
@@ -239,7 +239,7 @@ const LoadingScreen: React.FC<LoadingProps> = () => {
                     <p>But do enjoy what I have done so far :)</p>
                     <div style={styles.spacer} />
                     <div style={styles.spacer} /> */}
-                    <p>Abhigyan Portfolio Showcase 2022</p>
+                    <p>Abhigyan Portfolio Showcase 2024</p>
                     {mobileWarning && (
                         <>
                             <br />
@@ -314,7 +314,7 @@ const LoadingScreen: React.FC<LoadingProps> = () => {
                             will need to use a different browser.
                         </p>
                         <div style={styles.spacer} />
-                        <p>Thank you - Henry</p>
+                        <p>Thank you - Abhigyan</p>
                     </div>
                 </div>
             )}
