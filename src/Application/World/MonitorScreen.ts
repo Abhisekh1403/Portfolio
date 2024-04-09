@@ -184,7 +184,7 @@ export default class MonitorScreen extends EventEmitter {
 
         // Set iframe attributes
         // PROD
-        iframe.src = 'https://abhigyan-ubuntu.onrender.com/';
+        iframe.src = 'https://portfolio-inner-mpfbzvap5a-uc.a.run.app/';
         /**
          * Use dev server is query params are present
          *
